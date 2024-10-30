@@ -170,7 +170,7 @@ Questo progetto è distribuito sotto la licenza **MIT**. Consulta il file [LICEN
 
 ## Contatti
 
-Per domande o supporto, contattaci a [francescobrina9@gmail.com](malto:francescobrina9@gmail.com
+Per domande o supporto, contattami [francescobrina9@gmail.com](malto:francescobrina9@gmail.com
 ).
 
 ---
